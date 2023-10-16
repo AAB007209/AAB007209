@@ -25,10 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/the_sky_fire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="the_sky_fire" height="30" width="40" /></a> <a href="https://twitter.com/akashbenki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashbenki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash-a-benki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-a-benki" height="30" width="40" /></a>
-<a href="https://medium.com/@akashbenki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashbenki" height="30" width="40" /></a>
-<a href="https://hashnode.com/@theskyfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@theskyfire" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akash-a-benki" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Linkedln-Color.svg" alt="akash-a-benki" height="40" width="40" /></a>
+<a href="https://twitter.com/akashbenki" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Twitter%20Color.svg" alt="akashbenki" height="40" width="40" /></a>
+<a href="https://medium.com/@akashbenki" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Medium%20Color.svg" alt="@akashbenki" height="40" width="40" /></a>
+<a href="https://hashnode.com/@theskyfire" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Hashnode%20Color.png" alt="@theskyfire" height="35" width="35" /></a>
+<a href="https://dev.to/the_sky_fire" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/4519024_dev_icon.svg" alt="the_sky_fire" height="40" width="40" /></a>
 
 </p>
 
