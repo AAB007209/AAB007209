@@ -11,7 +11,7 @@
 
 <p align="end"> <img src="https://komarev.com/ghpvc/?username=aab007209&label=Profile%20views&color=0e75b6&style=flat" alt="aab007209" /> </p>
 
-<img align="right" alt="coding" width="340" height="260" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🔭 I’m currently working on **Personal Projects**
 
