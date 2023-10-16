@@ -2,12 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitter&weight=600&size=30&duration=4000&pause=1000&color=D200FF&center=true&vCenter=true&random=false&width=500&height=65&lines=Hi+%F0%9F%91%8B+There+!;I'm+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Akash+A+Benki"/>
 </h1>
 
-### A Passionate and Quick Learner of Technologies. “A jack of all trades is a master of none, but often times better than a master of one.”
-
----
-
 ![Github Profile Cover Image](https://github.com/AAB007209/AAB007209/blob/master/Github%20Cover.png)
-
+---
+### A Passionate and Quick Learner of Technologies. 
+> “A jack of all trades is a master of none, but often times better than a master of one.”
 <br/>
 <p>Building Unique usable projects with Beautiful User Interfaces. Every project will include an extra page documenting the journey which includes solving issues, writing about new things learnt, new tools explored and used, etc.</p>
 
@@ -51,7 +49,7 @@
 ---
 <br/>
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=aab007209&show_icons=true&locale=en" alt="aab007209" width="500" height="250"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=aab007209&" alt="aab007209" width="500" height="250"/>
 </div>
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aab007209&" alt="aab007209" /></p> -->
