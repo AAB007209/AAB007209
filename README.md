@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **React.js Next.js Tailwind CSS, Node.js Express.js MongoDB**
+- 🌱 I’m currently learning **React.js - Next.js - Tailwind CSS - Node.js - Express.js - MongoDB**
 
 - 📝 I regularly write articles on [https://medium.com/@akashbenki2001](https://medium.com/@akashbenki2001)
 
