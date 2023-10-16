@@ -1,5 +1,9 @@
 ![Github Profile Cover Image](https://github.com/AAB007209/AAB007209/blob/master/Github%20Cover.png)
-<h1 align="center">Hi 👋, I'm Akash A Benki</h1>
+
+<h1 align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Bitter&weight=600&size=30&duration=4000&pause=1000&color=D200FF&center=true&vCenter=true&random=false&width=500&height=65&lines=Hi+%F0%9F%91%8B+There+!;I'm+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Akash+A+Benki"/>
+</h1>
+
 <h3 align="center">A Passionate and Quick Learner of Technologies. “A jack of all trades is a master of none, but often times better than a master of one.”</h3>
 
 <p align="end"> <img src="https://komarev.com/ghpvc/?username=aab007209&label=Profile%20views&color=0e75b6&style=flat" alt="aab007209" /> </p>
