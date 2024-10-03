@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Upskilling and Personal Projects**
 
-- 🌱 I’m currently learning **MERN Stack + Tailwind CSS**
+- 🌱 I’m currently learning **Full Stack Web Development (MERN Stack)**
 
 - 📝 I regularly write articles on [https://medium.com/@akashbenki2001](https://medium.com/@akashbenki2001)
 
@@ -23,9 +23,9 @@
 
 - 📫 How to reach me **akashbenki2001@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://t.ly/1cTox)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1cE_PAnhneHFNsPr_MAyTsDCjQ5oFEVCc/view?usp=sharing)
 
-- ⚡ Fun fact **I don't use Instagram**
+- ⚡ Fun fact **I don't use Instagram and never used Snapchat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@
 
 <br/>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Libraries-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,bootstrap,html,css" />
