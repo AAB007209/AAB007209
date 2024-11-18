@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at Capgemini**
 
-- 🌱 I’m currently learning **Full Stack Web Development (MERN Stack)**
+- 🌱 Aspiring Full-Stack Developer. I’m currently learning **Full Stack Web Development (MERN Stack)**
 
 - 💬 Ask me about **Frontend Development**
 
