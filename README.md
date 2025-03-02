@@ -13,15 +13,11 @@
 
 - 🌱 Aspiring Full-Stack Developer. I’m currently learning **Full Stack Web Development (MERN Stack)**
 
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **akashbenki2001@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1cE_PAnhneHFNsPr_MAyTsDCjQ5oFEVCc/view?usp=sharing)
 
 - ⚡ Fun fact **I don't use Instagram and never used Snapchat**
-
-- 📝 I write articles on [https://medium.com/@akashbenki2001](https://medium.com/@akashbenki2001)
   
 </p>
 
