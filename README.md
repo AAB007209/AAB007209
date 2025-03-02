@@ -7,7 +7,7 @@
 
 <p align="end"> <img src="https://komarev.com/ghpvc/?username=aab007209&label=Profile%20views&color=0e75b6&style=flat" alt="aab007209" /> </p>
 
-<img align="right" alt="coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🔭 I’m currently working as **Data Analyst at Capgemini**
 
@@ -23,11 +23,11 @@
 
 <br/>
 
-<h2 align="left">⚒️ Languages-Libraries-Frameworks-Tools ⚒️</h2>
+<h3 align="left">⚒️ Languages-Libraries-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,babel,vscode,github,git,figma,postman,netlify,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,bootstrap,html,css,mongodb,mysql,postgres,aws,babel,vscode,github,git,figma,postman,netlify,vercel" />
+<!--     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,babel,vscode,github,git,figma,postman,netlify,vercel" /><br> -->
 </div>
 
 <br/>
