@@ -1,17 +1,7 @@
-<h1 align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bitter&weight=600&size=30&duration=4000&pause=1000&color=D200FF&center=true&vCenter=true&random=false&width=500&height=65&lines=Hi+%F0%9F%91%8B+There+!;I'm+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Akash+A+Benki;"/>
-</h1>
+<img align="right" alt="coding" width="320" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<h3>Hi👋, I'm Akash A Benki</h3>
 
-![Github Profile Cover Image](https://github.com/AAB007209/AAB007209/blob/master/Github%20Cover.png)
----
-
-<p align="end"> <img src="https://komarev.com/ghpvc/?username=aab007209&label=Profile%20views&color=0e75b6&style=flat" alt="aab007209" /> </p>
-
-<img align="right" alt="coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-- 🔭 I’m currently working as **Data Analyst at Capgemini**
-
-- 🌱 Aspiring Full-Stack Developer. I’m currently learning **Full Stack Web Development (MERN Stack)**
+- 🌱 Aspiring Full Stack Developer with a passion for building dynamic and responsive web applications.
 
 - 📫 How to reach me **akashbenki2001@gmail.com**
 
