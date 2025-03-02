@@ -4,7 +4,6 @@
 
 ![Github Profile Cover Image](https://github.com/AAB007209/AAB007209/blob/master/Github%20Cover.png)
 ---
-<p>Building Unique usable projects with Beautiful User Interfaces. Every project will include an extra page documenting the journey which includes solving issues, writing about new things learnt, new tools explored and used, etc.</p>
 
 <p align="end"> <img src="https://komarev.com/ghpvc/?username=aab007209&label=Profile%20views&color=0e75b6&style=flat" alt="aab007209" /> </p>
 
@@ -23,15 +22,7 @@
 - ⚡ Fun fact **I don't use Instagram and never used Snapchat**
 
 - 📝 I write articles on [https://medium.com/@akashbenki2001](https://medium.com/@akashbenki2001)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-a-benki" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Linkedln-Color.svg" alt="akash-a-benki" height="40" width="40" /></a>
-<a href="https://twitter.com/akashbenki" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Twitter%20Color.svg" alt="akashbenki" height="40" width="40" /></a>
-<a href="https://medium.com/@akashbenki" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Medium%20Color.svg" alt="@akashbenki" height="40" width="40" /></a>
-<a href="https://hashnode.com/@theskyfire" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/Hashnode%20Color.png" alt="@theskyfire" height="35" width="35" /></a>
-<a href="https://dev.to/the_sky_fire" target="blank"><img align="center" src="https://github.com/AAB007209/Basic_Projects/blob/main/Social_Icons/4519024_dev_icon.svg" alt="the_sky_fire" height="40" width="40" /></a>
-
+  
 </p>
 
 <br/>
