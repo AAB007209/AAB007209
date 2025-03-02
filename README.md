@@ -1,6 +1,5 @@
-<img align="right" alt="coding" width="320" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-<h3 align="left">Hi👋, I'm Akash A Benki</h3>
-<hr />
+<h2 align="left">Hi👋, I'm Akash A Benki</h2>
+<img align="right" alt="coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🌱 Aspiring Full Stack Developer with a passion for building dynamic and responsive web applications.
 
@@ -14,8 +13,8 @@
 
 <br/>
 
-<h3 align="left">⚒️ Languages-Libraries-Frameworks-Tools ⚒️</h3>
-<hr />
+<h2 align="left">⚒️ Languages-Libraries-Frameworks-Tools ⚒️</h2>
+<!-- <hr /> -->
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,bootstrap,html,css,mongodb,mysql,postgres,aws,babel,vscode,github,git,figma,postman,netlify,vercel" />
 </div>
