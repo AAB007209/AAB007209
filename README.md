@@ -1,13 +1,13 @@
 <h2 align="left">Hi👋, I'm Akash A Benki</h2>
 <img align="right" alt="coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🌱 Aspiring Full Stack Developer with a passion for building dynamic and responsive web applications.
+- A Microsoft Dynamics 365 CE Developer with nearly 2 years of experience, highly interested in transitioning to AI Engineering to focus specifically on the development and architecture of AI Agents.
 
-- 📫 How to reach me **akashbenki2001@gmail.com**
+- How to reach me **akashbenki2001@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1cE_PAnhneHFNsPr_MAyTsDCjQ5oFEVCc/view?usp=sharing)
+- Know about my experiences [Resume Link](https://drive.google.com/file/d/1dpHepgGVIv6HOIpqIYJKmaIJFvdVIbyt/view?usp=sharing)
 
-- ⚡ Fun fact **I don't use Instagram and never used Snapchat**
+- Fun fact 👉**I don't use Instagram since 4 years and never used Snapchat**
   
 </p>
 
@@ -16,7 +16,7 @@
 <h2 align="left">⚒️ Languages-Libraries-Frameworks-Tools ⚒️</h2>
 <!-- <hr /> -->
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,bootstrap,html,css,mongodb,mysql,postgres,aws,babel,vscode,github,git,figma,postman,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,bootstrap,html,css,mongodb,mysql,postgres,aws,babel,vscode,github,git,figma,postman,netlify,vercel" />
 </div>
 
 <br/>
