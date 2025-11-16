@@ -7,7 +7,7 @@
 
 - Know about my experiences [Resume Link](https://drive.google.com/file/d/1dpHepgGVIv6HOIpqIYJKmaIJFvdVIbyt/view?usp=sharing)
 
-- Fun fact 👉**I don't use Instagram since 4 years and never used Snapchat**
+- Fun fact 👉**I don't use Instagram and never used Snapchat**
   
 </p>
 
