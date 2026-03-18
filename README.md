@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋, I'm Akash A Benki</h2>
 <img align="right" alt="coding" width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- A Microsoft Dynamics 365 CE Developer with nearly 2 years of experience, highly interested in transitioning to AI Engineering to focus specifically on the development and architecture of AI Agents.
+- A Microsoft Dynamics 365 CE Developer with 2.2 years of experience, highly interested in transitioning to AI Engineering to focus specifically on the development and architecture of AI Agents.
 
 - How to reach me **akashbenki2001@gmail.com**
 
