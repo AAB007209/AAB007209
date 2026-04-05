@@ -5,7 +5,7 @@
 
 - How to reach me **akashbenki2001@gmail.com**
 
-- Know about my experiences [Resume Link](https://drive.google.com/file/d/1dpHepgGVIv6HOIpqIYJKmaIJFvdVIbyt/view?usp=sharing)
+- Know about my experiences [Resume Link](https://drive.google.com/file/d/1Wd1OrfS7Y4Md5akRiw0Gpj2O6-DkgorL/view?usp=sharing)
 
 - Fun fact 👉**I don't use Instagram and never used Snapchat**
   
